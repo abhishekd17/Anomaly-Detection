@@ -11,12 +11,6 @@ This project develops an anomaly detection system to identify unusual patterns i
 - [Challenges and Solutions](#challenges-and-solutions)
 - [Results](#results)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Directory Structure](#directory-structure)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Goals
 - Build a robust anomaly detection system to identify unusual patterns in datasets, such as fraudulent transactions or faulty sensor readings.
